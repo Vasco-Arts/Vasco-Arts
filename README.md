@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Arthur and you are on my GitHub profile, thanks for find me 🖖 :alien:
+### Hi there 👋 my name is Arthur and you are on my GitHub profile, thanks for finding me 🖖 :alien:
 
 - 🌱 I’m currently learning statistical physics.
 
