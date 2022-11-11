@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Arthur and you are on my GitHub profile, thanks for finding me 🖖 :alien:
+## Hi there 👋 my name is Arthur and you are on my GitHub profile, thanks for finding me 🖖 :alien:
 
 - 🌱 I’m currently learning statistical physics.
 
@@ -19,6 +19,11 @@
 
 
 <!--
+
+
+### <font size= "5">_Hi there 👋 my name is Arthur and you are on my GitHub profile, thanks for finding me 🖖 :alien:_</font>
+
+
 **Vasco-Arts/Vasco-Arts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
