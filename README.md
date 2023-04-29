@@ -1,6 +1,6 @@
 # Hi there 👋 my name is Arthur and you are on my GitHub profile, thanks for finding me 🖖 :alien:
 
-- 🌱 I’m currently learning statistical physics.
+- 🌱 I’m currently learning how to make a good use of pointers without drinking too much coffee.
 
 <div align="center">
   <a href="https://github.com/Vasco-Arts">
